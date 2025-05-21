@@ -1,0 +1,1 @@
+Technikvorschlag: Flutter, TensorFlow Lite, OpenWeather API, etc.
